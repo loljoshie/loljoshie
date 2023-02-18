@@ -5,7 +5,7 @@ A comprehensive Discord bot that makes managing your community effortless and ef
 
 With our all-in-one approach, it doesn't take long to guild-a-bot! https://www.guildabot.com/
 
-Use code "**GetGuilda2023**" at checkout to get 10% off yearly subscription!
+Use code "**GetGuilda2023**" at checkout to get an extra 10% off yearly subscription!
 
 ### MY BIO
 
