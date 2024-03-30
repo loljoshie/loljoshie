@@ -1,5 +1,6 @@
-### NEED A DISCORD BOT?
-![Frame 39](https://user-images.githubusercontent.com/91661118/219847886-70027718-7342-406c-a04e-855aee5b116e.png)
+### ADD ME ON DISCORD "loljoshie"
+![deal](https://github.com/loljoshie/loljoshie/assets/91661118/657bb1ff-c98e-4e9b-8cf4-57701658e830)
+
 ### Guilda Bot
 A comprehensive Discord bot that makes managing your community effortless and efficient. With its all-in-one approach, Guilda provides you with everything you need to set up and run your community with ease.
 
