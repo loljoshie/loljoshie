@@ -1,3 +1,5 @@
+<h1 align="center">My name is Joshua</h1>
+
 <h3 align="center">Full Stack Developer | React, Node.js, TypeScript | Building Scalable E-commerce & SaaS Platforms</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=loljoshie&color=red" alt="loljoshie" /> </p>
